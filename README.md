@@ -1,11 +1,15 @@
 # 🎭 Emotion Detection App  
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-brightgreen?logo=streamlit)](https://emotiondetect-2ysbluimrqdsuvqh87qbz4.streamlit.app/)  
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)  
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Model-orange?logo=scikitlearn)](https://scikit-learn.org/)
+
+**Live app:** [🔗 Open Live App (Streamlit)](https://emotiondetect-2ysbluimrqdsuvqh87qbz4.streamlit.app/)
+
 ## 📖 Overview  
 
 The **Emotion Detection App** is an **NLP-powered web application** that predicts the underlying emotion in user input text.  
-It is built using **TF-IDF + Logistic Regression**, achieving **85% accuracy 🎯**.  
-
-👉 Try the live app here: [Click to Launch 🚀]([YOUR_STREAMLIT_APP_LINK](https://emotiondetect-2ysbluimrqdsuvqh87qbz4.streamlit.app/))  
+It is built using **TF-IDF + Logistic Regression**, achieving **85% accuracy 🎯**.   
 
 ## ✨ Features :
 
