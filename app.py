@@ -1,8 +1,10 @@
 import streamlit as st
 import pickle
 
-model = pickle.load(open("logreg_model.pkl", "rb"))
-tfidf = pickle.load(open("tfidf.pkl", "rb"))
+import joblib
+model = joblib.load("logreg_model.pkl")
+tfidf = joblib.load("tfidf.pkl")
+
 
 st.set_page_config(
     page_title="Emotion Detector",
